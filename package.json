@@ -1,0 +1,21 @@
+{
+  "name": "line-liff-v2-email-bind",
+  "version": "1.0.0",
+  "description": "This is a small web application that practice LIFF App.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "engines": {
+    "node": "10.x"
+  }
+}
