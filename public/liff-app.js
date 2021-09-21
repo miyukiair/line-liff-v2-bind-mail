@@ -17,7 +17,7 @@ window.onload = function () {
 };
 
 function showErrorMsg(message) {
-    document.getElementById("error").textcontent = message;
+    document.getElementById("error").textContent = message;
 }
 
 /**
@@ -68,5 +68,5 @@ function initializeApp() {
 }
 
 function displayUserEmail(email) {
-    document.getElementById("userEmail").textcontent = email;
+    document.getElementById("userEmail").textContent = email;
 }
